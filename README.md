@@ -1,8 +1,11 @@
 # Praktikum2-Komnum-5025211015
 
-Nama  : Muhammad Daffa Ashdaqfillah
+Nama    : Muhammad Daffa Ashdaqfillah
 
-NRP   : 5025211015
+NRP       : 5025211015
+
+Kelompok  : C15
+
 
 Praktikum 2 Komputasi Numerik
 
